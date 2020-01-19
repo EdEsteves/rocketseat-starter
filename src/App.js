@@ -11,7 +11,7 @@ import { Route } from 'react-router-dom';
 const App = () => (
   <div className="App">
     <Header />
-    <Routes></Routes>
+    <Routes />
   </div>
 );
 
